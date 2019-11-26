@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Diggers_and_Fliers/1.0.0": {
+        "runtime": {
+          "Diggers_and_Fliers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diggers_and_Fliers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
